@@ -18,11 +18,14 @@ The steps followed for the application are as below:
 The application further enables user to `view` and do `validation of blocks` in the ledger using hash functionality.
 
 
-## Application Testing and Validation:
+## Testing and Validation:
 
-* Web application allows user to add transactions by entering sender, receiver and amount details in the provided spaces.
-* When testing the application, the different transactions were added using different difficulty level and we can clearly see the increase in nonce with the increase in difficulty level. 
+* This blockchain based web application allows users to enter sender, receiver and amount details in the provided spaces to add transactions in the ledger.
+
+* When testing the application, different transactions were added using different difficulty level and we can clearly see the increase in nonce with the increase in difficulty level. 
+
 * It further enables to view a particular block using  drop down option and selecting the block.
+
 * The application gives an option to validate the chain or the ledger.
 
 
