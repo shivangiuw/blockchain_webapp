@@ -3,9 +3,11 @@
 ## Overview:
 Blockchain based web application buit with Streamlit interface and Python which allows financial transactions between banks and to verify the integrity of transactions in the ledger
 
-## Application & process:
+## Application Design & process:
 
 The application has been built using python and streamlit web interface and stores the data and methods in dataclasses i.e. Record,Block and Pychain when a new record(transaction) is added.
+
+![Web application_working](media/web_app.png)
 
 The steps followed for the application are as below:
 
